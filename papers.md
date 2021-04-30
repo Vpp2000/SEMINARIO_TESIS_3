@@ -1,0 +1,3 @@
++ Galbrun safes paths (en este caso por alguna razón he encontrado dos pappers que tratan de lo mismo pero con distintas ilustraciones. Es como sí uno fuere la versión preliminar y el otro fuese la versión inicial)
+  + https://sci-hub.se/https://doi.org/10.1016/j.is.2015.10.005 (version sin ilustraciones bonitas)
+  + https://www.cs.helsinki.fi/u/galbrun/pdfs/GPT14_safe.pdf (version con ilustraciones bonitas)
