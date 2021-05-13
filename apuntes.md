@@ -5,6 +5,9 @@
 + Página sobre un poco de función de densidad de probabilidad para recordar un poco de probabilidad y estadística: 
 	+ https://www.reliawiki.com/index.php/Basic_Statistical_Background
 + Obtención del bandwith con SCIPY: https://stackoverflow.com/questions/23630515/getting-bandwidth-used-by-scipys-gaussian-kde-function
++ Survey bastante completo de librerías con implementaciones de KDE : https://jakevdp.github.io/blog/2013/12/01/kernel-density-estimation/
++ KDE con un software llamado QGIS: https://www.geodose.com/2017/11/qgis-heatmap-using-kernel-density.html
++ Más recursos =U https://jakevdp.github.io/PythonDataScienceHandbook/05.13-kernel-density-estimation.html
 
 
 
