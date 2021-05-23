@@ -8,6 +8,7 @@
 + Survey bastante completo de librerías con implementaciones de KDE : https://jakevdp.github.io/blog/2013/12/01/kernel-density-estimation/
 + KDE con un software llamado QGIS: https://www.geodose.com/2017/11/qgis-heatmap-using-kernel-density.html
 + Más recursos =U https://jakevdp.github.io/PythonDataScienceHandbook/05.13-kernel-density-estimation.html
++ Ploteando coordenadas, pero sin heatmap: https://towardsdatascience.com/visualizing-geospatial-data-in-python-e070374fe621
 
 
 
